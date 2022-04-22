@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  margin-top: 2rem;
+}
+label {
+  font-size: 2rem;
+}
+input {
+  font-size: 2rem;
+}
+button {
+  font-size: 2rem;
+  cursor: pointer;
+}
+.result button {
+  font-size: 2rem;
+  /* display: flex; */
+}
+.result h2 {
+  font-size: 2rem;
+  font-weight: 500;
+}
